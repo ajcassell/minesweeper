@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="mine_game_over">You hit a mine! Game Over! Press NEW GAME button.</string>
+    <string name="last_mine_game_over_win">You flagged the last mine! Game over :) Press NEW GAME button.</string>
+    <string name="no_mine_game_over">There is no mine here, game over! Press NEW GAME button.</string>
+    <string name="not_empty">Try again, this spot is not empty.</string>
+    <string name="hit_mine_game_over">YOU HIT A MINE GAME OVER! Press NEW GAME button. </string>
+    <string name="new_game">NEW GAME</string>
+</resources>
